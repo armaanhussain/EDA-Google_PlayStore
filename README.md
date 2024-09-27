@@ -1,6 +1,6 @@
 # EDA-Google_PlayStore
 
-![image](https://github.com/user-attachments/assets/6e848f70-44a1-4c87-a483-e094c6359bfe)
+![image](https://github.com/user-attachments/assets/e6423a3a-69ad-48a6-bc62-73e5670ee4f0)
 
 
 The Google Play Store is a hub for millions of mobile applications across various categories. Exploring this vast dataset can provide valuable insights into app trends, user preferences, and factors influencing app ratings and reviews. This project aims to perform a comprehensive exploratory data analysis on the Play Store dataset to uncover interesting patterns and trends.
@@ -31,10 +31,10 @@ Exploratory Data Analysis
 
 # Tech Used
 
-![image](https://github.com/user-attachments/assets/fc1b3402-30d2-412c-9d27-2786b55686e3)   ![image](https://github.com/user-attachments/assets/89c57b57-92ee-49cf-ae92-3213e25dbd32)
 
-![image](https://github.com/user-attachments/assets/9d4a3540-d391-4e60-9654-2be36b4d7acf)   ![image](https://github.com/user-attachments/assets/2f3eed65-b7b6-493e-8084-3bb3cf2e0eb1)
+![image](https://github.com/user-attachments/assets/fc1b3402-30d2-412c-9d27-2786b55686e3)     ![image](https://github.com/user-attachments/assets/89c57b57-92ee-49cf-ae92-3213e25dbd32)
 
+![image](https://github.com/user-attachments/assets/95bc5577-1ec6-404d-a60b-3af839c25289)     ![image](https://github.com/user-attachments/assets/2f3eed65-b7b6-493e-8084-3bb3cf2e0eb1)
 
 
 
