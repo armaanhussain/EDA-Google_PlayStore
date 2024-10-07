@@ -1,6 +1,7 @@
 # Google Play Store EDA
 
-![image](https://github.com/user-attachments/assets/55899096-c690-4ddb-9094-91ee6be310e6)
+![image](https://github.com/user-attachments/assets/1cf1b6b7-2547-46af-a84e-78b666e7176a)
+
 
 
 
