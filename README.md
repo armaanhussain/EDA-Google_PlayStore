@@ -48,11 +48,46 @@ Exploratory Data Analysis.
 
 # Inferences and Conclusion
 
-The Google Play Store Apps report provides some useful insights regarding the trending of the apps in the play store. As per the graphs visualizations shown above, most of the trending apps (in terms of users' installs) are from the categories like GAME, COMMUNICATION, and TOOL even though the amount of available apps from these categories are twice as much lesser than the category FAMILY. The trending of these apps are most probably due to their nature of being able to entertain or assist the user. Besides, it also shows a good trend where we can see that developers from these categories are focusing on the quality instead of the quantity of the apps.
+**Key Insights**
 
-Other than that, the charts shown above actually implies that most of the apps having good ratings of above 4.0 are mostly confirmed to have high amount of reviews and user installs. There are some spikes in term of size and price but it shouldn't reflect that apps with high rating are mostly big in size and pricy as by looking at the graphs they are most probably are due to some minority. Futhermore, most of the apps that are having high amount of reviews are from the categories of SOCIAL, COMMUNICATION and GAME like Facebook, WhatsApp Messenger, Instagram, Messenger – Text and Video Chat for Free, Clash of Clans etc.
 
-Eventhough apps from the categories like GAME, SOCIAL, COMMUNICATION and TOOL of having the highest amount of installs, rating and reviews are reflecting the current trend of Android users, they are not even appearing as category in the top 5 most expensive apps in the store (which are mostly from FINANCE and LIFESTYLE). As a conclsuion, we learnt that the current trend in the Android market are mostly from these categories which either assisting, communicating or entertaining apps.
+1. **Trending Categories**:
+   - The most trending apps in terms of **user installs** predominantly belong to the categories of **GAME**, **COMMUNICATION**, and **TOOL**. These categories are leading despite having significantly fewer apps available compared to **FAMILY**, which has the highest number of apps.
+   - This trend can be attributed to the **nature** of these apps, as they focus on **entertaining** or **assisting** users in various aspects of their lives.
+   - Developers of apps in these trending categories appear to emphasize **quality over quantity**. Instead of releasing a large number of apps, they focus on creating apps that deliver better performance, functionality, and user satisfaction.
+   - Examples of popular apps in these categories include games like **Clash of Clans**, communication tools such as **WhatsApp Messenger**, and utility apps like **File Manager** and **Cleaner Tools**.
+
+2. **Ratings and Reviews**:
+   - Apps with **ratings above 4.0** often correlate with a **high number of reviews and user installs**, suggesting that users tend to engage more with apps that are well-received and highly rated.
+   - There are, however, certain spikes in metrics like **app size** and **price**. These outliers indicate that some larger or pricier apps still achieve high ratings, but these cases are likely exceptions rather than the norm. For the majority of apps, higher ratings do not necessarily imply larger app sizes or higher prices.
+   - The relationship between **ratings, reviews, and installs** reflects the importance of user satisfaction and positive feedback in driving the popularity of apps.
+
+3. **Categories with High Reviews**:
+   - Apps from the categories of **SOCIAL**, **COMMUNICATION**, and **GAME** consistently receive the **highest number of reviews**, reflecting their widespread adoption and active user base.
+   - Examples of apps from these categories with significant reviews include:
+     - **SOCIAL**: Facebook, Instagram
+     - **COMMUNICATION**: WhatsApp Messenger, Messenger – Text and Video Chat for Free
+     - **GAME**: Clash of Clans, Candy Crush Saga
+   - These apps dominate user engagement by providing social interaction, entertainment, or seamless communication experiences, aligning closely with user needs and preferences.
+
+4. **Expensive Apps and Categories**:
+   - Interestingly, the categories with the **highest installs, ratings, and reviews**, such as **GAME**, **SOCIAL**, **COMMUNICATION**, and **TOOL**, are not represented among the top 5 **most expensive apps** on the Google Play Store.
+   - Instead, the top 5 most expensive apps typically belong to categories like **FINANCE** and **LIFESTYLE**, which cater to a niche market of users willing to pay for premium features or specialized services.
+   - This shows a clear divide between the apps that cater to **mass-market users** (primarily free or freemium apps) and those targeting a **high-value niche** audience (premium apps).
+
+5. **User Behavior and Market Trends**:
+   - The insights from the graphs indicate that the **current trends in the Android app market** revolve around apps that provide:
+     - **Assistance**: Tools that simplify tasks or enhance productivity.
+     - **Communication**: Platforms that enable seamless social interaction.
+     - **Entertainment**: Games or apps that engage users and provide recreational value.
+   - These trends highlight that Android users prioritize apps that deliver functional, engaging, and socially interactive experiences over other factors such as app price or size.
+
+6. **Conclusion**:
+   - The analysis reveals that the Google Play Store is dominated by apps focusing on **quality and user engagement** in categories like **GAME**, **SOCIAL**, **COMMUNICATION**, and **TOOL**.
+   - Developers in these categories are aligning with user preferences by delivering high-quality apps that fulfill everyday needs for entertainment, communication, and utility.
+   - On the other hand, the most expensive apps belong to categories like **FINANCE** and **LIFESTYLE**, showcasing that premium-priced apps often cater to niche audiences.
+   - Overall, the Android app market trends show that user demand heavily influences the popularity and success of apps, with a clear focus on delivering value and satisfaction to a broad audience.
+
 
 
 
