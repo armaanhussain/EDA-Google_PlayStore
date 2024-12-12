@@ -82,7 +82,7 @@ Exploratory Data Analysis.
      - **Entertainment**: Games or apps that engage users and provide recreational value.
    - These trends highlight that Android users prioritize apps that deliver functional, engaging, and socially interactive experiences over other factors such as app price or size.
 
-6. **Conclusion**:
+ **Conclusion**:
    - The analysis reveals that the Google Play Store is dominated by apps focusing on **quality and user engagement** in categories like **GAME**, **SOCIAL**, **COMMUNICATION**, and **TOOL**.
    - Developers in these categories are aligning with user preferences by delivering high-quality apps that fulfill everyday needs for entertainment, communication, and utility.
    - On the other hand, the most expensive apps belong to categories like **FINANCE** and **LIFESTYLE**, showcasing that premium-priced apps often cater to niche audiences.
